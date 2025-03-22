@@ -1,6 +1,4 @@
-# Tela de Login - README
-
-(imagens/tela-login.png)
+![Tela de Login](imagens/tela-login.png)
 
 **Descrição:**
 
